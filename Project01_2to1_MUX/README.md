@@ -1,4 +1,4 @@
-# Day 01 - 2:1 Multiplexer (MUX)
+# Project 01 - 2:1 Multiplexer (MUX)
 
 ## Project Overview
 A 2:1 Multiplexer is a digital circuit
