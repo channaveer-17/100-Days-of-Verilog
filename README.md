@@ -1,8 +1,8 @@
-100 Days of Verilog
+# 100 Projects of Verilog
 
-Welcome to my 100 Days of Verilog Challenge!
+Welcome to my 100 Projects of Verilog Challenge!
 
-I am learning Verilog HDL through daily hands-on projects using Icarus Verilog and GTKWave.
+I am learning Verilog HDL through 100 hands-on projects using Icarus Verilog and GTKWave.
 
 Goals
 
@@ -19,8 +19,6 @@ Tools Used
 - VS Code
 - Git and GitHub
 
-Progress
 
-Learning one project every day for 100 days!
 
 Let's learn, build and grow! 🚀
